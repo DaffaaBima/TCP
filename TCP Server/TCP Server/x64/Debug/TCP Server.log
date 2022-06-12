@@ -1,0 +1,8 @@
+﻿  Server.cpp
+D:\Arsikom\TCP Server\TCP Server\Server.cpp(13,1): warning C4326: return type of 'main' should be 'int' instead of 'void'
+D:\Arsikom\TCP Server\TCP Server\Server.cpp(84,62): warning C4267: 'argument': conversion from 'size_t' to 'int', possible loss of data
+D:\Arsikom\TCP Server\TCP Server\Server.cpp(92,23): warning C4018: '<': signed/unsigned mismatch
+D:\Arsikom\TCP Server\TCP Server\Server.cpp(97,57): warning C4267: 'argument': conversion from 'size_t' to 'int', possible loss of data
+D:\Arsikom\TCP Server\TCP Server\Server.cpp(123,24): warning C4018: '<': signed/unsigned mismatch
+D:\Arsikom\TCP Server\TCP Server\Server.cpp(128,58): warning C4267: 'argument': conversion from 'size_t' to 'int', possible loss of data
+  TCP Server.vcxproj -> D:\Arsikom\TCP Server\x64\Debug\TCP Server.exe

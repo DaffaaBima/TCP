@@ -1,0 +1,4 @@
+﻿  Client.cpp
+D:\Arsikom\TCP Client\TCP Client\Client.cpp(26,1): warning C4326: return type of 'main' should be 'int' instead of 'void'
+D:\Arsikom\TCP Client\TCP Client\Client.cpp(84,57): warning C4267: 'argument': conversion from 'size_t' to 'int', possible loss of data
+  TCP Client.vcxproj -> D:\Arsikom\TCP Client\x64\Debug\TCP Client.exe
